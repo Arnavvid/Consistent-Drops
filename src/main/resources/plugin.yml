@@ -1,0 +1,4 @@
+name: ConsistentDrops
+version: '1.0.0'
+main: me.misclik.consistentDrops.ConsistentDrops
+api-version: '1.18'
